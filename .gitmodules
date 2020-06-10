@@ -1,0 +1,6 @@
+[submodule "security-topics"]
+	path = security-topics
+	url = https://github.com/maxgio92/k8s-aaca-security-topics-session.git
+[submodule "advanced-topics"]
+	path = advanced-topics
+	url = https://github.com/CarloAlbertoS/KDW-AdvancedK8S.git
